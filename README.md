@@ -24,7 +24,7 @@ Three ratings (rating, food rating, and service rating) with values of 0, 1, or 
 
 ### Results
 
-A collaborative filtering approach is shown in ``collaborative_filtering.ipynb``. Data exploration and visualization in preparation for a content-based approach is shown in ``exploration.ipynb``.
+A collaborative filtering approach is shown in ``collaborative_filtering.ipynb``. Data exploration and visualization in preparation for a content-based approach are shown in ``exploration.ipynb``.
 
 ### Acknowledgements
 Dataset Creators:
