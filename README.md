@@ -24,7 +24,7 @@ Three ratings (rating, food rating, and service rating) with values of 0, 1, or 
 
 ### Results
 
-A collaborative filtering approach is shown in ``collaborative_filtering.ipynb``. Data exploration and visualization in preparation for a content-based approach are shown in ``exploration.ipynb``. And ``content_based.ipynb`` shows the content-based approach.
+``Project-Hsu.pdf`` is a written report for this project. For the code, a collaborative filtering approach is shown in ``collaborative_filtering.ipynb``. Data exploration and visualization (in preparation for a content-based approach) are shown in ``exploration.ipynb``. And ``content_based.ipynb`` shows the content-based approach.
 
 ### Acknowledgements
 Dataset Creators:
