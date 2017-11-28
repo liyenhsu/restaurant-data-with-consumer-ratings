@@ -1,6 +1,6 @@
 # Restaurant Data with Consumer Ratings
 ### Objective
-This dataset was obtained from a recommender system prototype. The task is to generate a top-n list of restaurants according to the consumer preferences. Two approaches can be used: a collaborative filtering technique and a content-based approach. 
+This dataset was obtained from a recommender system prototype, and the task is to generate a top-n list of restaurants according to the consumer preferences. Two approaches can be used: a collaborative filtering technique and a content-based approach. 
 
 ### Data
 The data were originally from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data). There are a README and nine csv files in the [data](data/) directory, including five for the restaurant information, three for the consumer information, and one for the ratings:
