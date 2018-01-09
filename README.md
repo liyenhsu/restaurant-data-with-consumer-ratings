@@ -24,7 +24,7 @@ Three ratings (rating, food rating, and service rating) with values of 0, 1, or 
 
 ### Results
 
-[Project-Hsu.pdf](Project-Hsu.pdf) is a written report for this project. For the code, several collaborative filtering approachs are shown in [collaborative_filtering.ipynb](collaborative_filtering.ipynb) and [gibbs＿sampling.ipynb](gibbs_sampling.ipynb). Data exploration and visualization (in preparation for a content-based approach) are shown in [exploration.ipynb](exploration.ipynb). And [content_based.ipynb](content_based.ipynb) shows the content-based approach.
+[Project-Hsu.pdf](Project-Hsu.pdf) is a written report for this project. For the code, several collaborative filtering approachs are shown in [collaborative_filtering.ipynb](collaborative_filtering.ipynb) and [gibbs_sampling.ipynb](gibbs_sampling.ipynb). Data exploration and visualization (in preparation for a content-based approach) are shown in [exploration.ipynb](exploration.ipynb). And [content_based.ipynb](content_based.ipynb) shows the content-based approach.
 
 ### Acknowledgements
 Dataset Creators:
